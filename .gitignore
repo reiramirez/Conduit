@@ -1,0 +1,4 @@
+# Project exclude paths
+/conduit-annotations/target/
+/conduit-orm/target/
+/conduit-tests/target/
